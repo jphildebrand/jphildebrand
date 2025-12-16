@@ -24,6 +24,12 @@ Systems Administration/Cloud DevOps student graduating Fall 2026, seeking summer
 
 ## 🛠️ Tech Stack
 
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=yaml&logoColor=white)
+
 ### Cloud & Infrastructure
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
