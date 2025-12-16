@@ -53,3 +53,8 @@
 - Conducted network scanning and enumeration with Nmap and Metasploit
 - Identified and documented security vulnerabilities with remediation recommendations
 - Practiced ethical hacking techniques in controlled lab environments
+
+<div align="center"> 
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/{USERNAME}/count.svg" alt="Visitor's Count" />
+</div>
