@@ -1,3 +1,6 @@
+<img src="https://github.com/jphildebrand/matc/blob/main/matrix.avif>
+
+
 ## Hi there 👋
 
 ## Technical Projects & Experience
