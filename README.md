@@ -1,7 +1,8 @@
 <img src="https://github.com/jphildebrand/jphildebrand/blob/main/Matrix.jpg" alt="Banner of a developer sitting in front of a Matric desk">
-# 👨‍💻 **Jeffrey Hildebrand**
 
 <div align="center">
+
+## [![Name](https://img.shields.io/badge/Jeffrey_Hildebrand-000000?style=for-the-badge&logoColor=white)](#)
 
 ### Cloud DevOps Engineer | Systems Administrator | Network Security Specialist
 
@@ -17,7 +18,7 @@
 
 ## 🎓 About Me
 
-Systems Administration/Cloud DevOps student graduating Fall 2026, seeking summer 2026 internship opportunities in DevOps, Cloud Infrastructure, or Systems Administration. Hands-on experience with AWS, Azure, Docker, and Python automation.
+Systems Administration/Cloud DevOps student graduating Fall 2026, seeking summer 2026 internship opportunities in DevOps, Cloud Infrastructure, or Systems Administration. Hands-on experience with [...]
 
 ---
 
@@ -161,10 +162,9 @@ Feel free to reach out via email or LinkedIn!
 <br>
 
 <div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=jphildebrand&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="jphildebrand's GitHub Stats" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=jphildebrand&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="jphildebrand's GitHub [...]
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=jphildebrand&theme=transparent&count_private=true&border_radius=10&locale=en" alt="jphildebrand" />
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=jphildebrand&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Top Languages" />
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=jphildebrand&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" [...]
 </div>
 
-<hr>Current Date and Time (UTC - YYYY-MM-DD HH:MM:SS formatted): 2025-12-16 22:58:24
-Current User's Login: jphildebrand
+<hr>
