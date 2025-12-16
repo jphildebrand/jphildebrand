@@ -1,16 +1,31 @@
 ## Hi there 👋
 
-<!--
-**jphildebrand/jphildebrand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Technical Projects & Experience
 
-Here are some ideas to get you started:
+### 🖥️ Infrastructure & Virtualization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Proxmox VE Virtualization Infrastructure (2024-2025)
+- Deployed enterprise virtualization environment with high availability clustering
+- Automated VM deployment using Python scripts and REST API integration
+- Configured monitoring with InfluxDB and Grafana dashboards
+- Implemented backup strategies and disaster recovery procedures
+
+#### API-Driven Infrastructure Management (2024-2025)
+
+#### AWS Multi-Tier Application Deployment (2025)
+
+### 📊 Monitoring & Data
+
+#### Monitoring and Alerting System (2025)
+
+#### Database Design & Modeling (2025)
+
+### 🔧 Systems & Network Administration
+
+#### Linux Systems Administration (2024)
+
+#### Network Infrastructure Configuration (2024)
+
+### 🔒 Security
+
+#### Security Assessment & Penetration Testing (2024)
