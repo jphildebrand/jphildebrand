@@ -1,7 +1,102 @@
 <img src="https://github.com/jphildebrand/jphildebrand/blob/main/Matrix.jpg" alt="Banner of a developer sitting in front of a Matric desk">
-## Jeffrey Hildebrand   |   jeffrey.hildebrand@proton.me or jphildebrand@madisoncollege.edu | P: 920.210.1825 | Marshall, WI
-LinkedIn: http://www.linkedin.com/in/jeffrey-hildebrand-43249124a/
-Projects: https://github.com/users/jphildebrand/projects/2
+# 👨‍💻 Jeffrey Hildebrand
+
+<div align="center">
+
+### Cloud DevOps Engineer | Systems Administrator | Network Security Specialist
+
+[![Email](https://img.shields.io/badge/Email-jeffrey.hildebrand%40proton.me-blue?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:jeffrey.hildebrand@proton.me)
+[![College Email](https://img.shields.io/badge/College-jphildebrand%40madisoncollege.edu-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jphildebrand@madisoncollege.edu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jeffrey_Hildebrand-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/jeffrey-hildebrand-43249124a/)
+[![Phone](https://img.shields.io/badge/Phone-920.210.1825-green?style=for-the-badge&logo=phone&logoColor=white)](tel:920-210-1825)
+[![Location](https://img.shields.io/badge/Location-Marshall%2C_WI-purple?style=for-the-badge&logo=google-maps&logoColor=white)](#)
+
+</div>
+
+---
+
+## 🎓 About Me
+
+Systems Administration/Cloud DevOps student graduating Fall 2026, seeking summer 2026 internship opportunities in DevOps, Cloud Infrastructure, or Systems Administration. Hands-on experience with AWS, Proxmox virtualization, Python automation, and infrastructure monitoring.
+
+---
+
+## 🛠️ Tech Stack
+
+### Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
+
+### Automation & Scripting
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+
+### Containerization & Version Control
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+### Operating Systems
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
+
+### Monitoring & Databases
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=flat-square&logo=influxdb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+
+### Networking & Security
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+
+---
+
+## 🏆 Certifications
+
+- 🎖️ **AWS Cloud Security Badge**
+- 🎖️ **Cisco Certified Network Associate (CCNA)**
+- 🎖️ **Cisco Certified Entry Networking Technician (CCENT)**
+- 🎖️ **Microsoft Certified Professional**
+- 🎖️ **Microsoft Specialist - Windows**
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jphildebrand&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jphildebrand&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 📫 Let's Connect!
+
+I'm actively seeking **Summer 2026 internship opportunities** in:
+- ☁️ Cloud DevOps
+- 🖥️ Systems Administration  
+- 🔐 Network Security
+- 🛠️ Infrastructure Engineering
+
+Feel free to reach out via email or LinkedIn!
+
+---
+
+<div align="center">
+
+**💼 Open to Internship Opportunities | 🎓 Graduating Fall 2026**
+
+*Made with ❤️ and lots of ☕*
+
+</div>
 
 ## Hi there 👋
 
