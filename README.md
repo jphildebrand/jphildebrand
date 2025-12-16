@@ -155,16 +155,14 @@ Feel free to reach out via email or LinkedIn!
 - Identified and documented security vulnerabilities with remediation recommendations
 - Practiced ethical hacking techniques in controlled lab environments
 
-<div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/{USERNAME}/count.svg" alt="Visitor's Count" />
-</div>
+## ⚡️ Stats
+
 <br>
 
 <div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=jphildebrand&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="jphildebrand's GitHub [...]
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=jphildebrand&theme=transparent&count_private=true&border_radius=10&locale=en" alt="jphildebrand" />
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=jphildebrand&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" [...]
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=jphildebrand&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="jphildebrand's GitHub Stats" />
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=jphildebrand&theme=transparent&count_private=true&border_radius=10&locale=en" alt="jphildebrand's" />
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=jphildebrand&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="jphildebrand's Most Used Languages" />
 </div>
 
 <hr>
