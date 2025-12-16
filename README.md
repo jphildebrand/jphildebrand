@@ -1,4 +1,4 @@
-<img src="https://github.com/jphildebrand/matc/blob/main/matrix.avif>
+<img src="https://github.com/jphildebrand/jphildebrand/blob/main/Matrix.jpg" alt="Banner of a developer sitting in front of a Matric desk">
 
 
 ## Hi there 👋
