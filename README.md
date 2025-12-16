@@ -1,7 +1,7 @@
 <img src="https://github.com/jphildebrand/jphildebrand/blob/main/Matrix.jpg" alt="Banner of a developer sitting in front of a Matric desk">
 ## Jeffrey Hildebrand   |   jeffrey.hildebrand@proton.me or jphildebrand@madisoncollege.edu | P: 920.210.1825 | Marshall, WI
 LinkedIn: http://www.linkedin.com/in/jeffrey-hildebrand-43249124a/
-Projects: https://github.com/users/jphildebrand/projects/1
+Projects: https://github.com/users/jphildebrand/projects/2
 
 ## Hi there 👋
 
