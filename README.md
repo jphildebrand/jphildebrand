@@ -109,6 +109,7 @@ in Systems Administration and Cloud DevOps at Madison College.
 💬 Ask me about: Proxmox VE, AWS, Python automation, or network security
 ⚡ Fun fact: Former commercial pilot who decided to fly in the cloud instead! ☁️✈️
 
+<div align="left"
 ## Technical Projects & Experience
 
 ### 🖥️ Infrastructure & Virtualization
@@ -154,6 +155,10 @@ in Systems Administration and Cloud DevOps at Madison College.
 - Performed system monitoring and troubleshooting using command-line tools
 
 #### Network Infrastructure Configuration (2024)
+- Configured Cisco routers and switches for enterprise network topology
+- Implemented VLANs for network segmentation and security isolation
+- Set up routing protocols (OSPF/EIGRP) for dynamic route management
+- Configured access control lists (ACLs) for traffic filtering and security
 
 ### 🔒 Security
 
@@ -162,6 +167,7 @@ in Systems Administration and Cloud DevOps at Madison College.
 - Conducted network scanning and enumeration with Nmap and Metasploit
 - Identified and documented security vulnerabilities with remediation recommendations
 - Practiced ethical hacking techniques in controlled lab environments
+</div>
 
 ## ⚡️ Stats
 
