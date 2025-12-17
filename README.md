@@ -64,28 +64,28 @@ Network Security degree with CCNA certification and prior IT Security internship
 
 ## 🏆 Certifications
 
-- 🎖️ **AWS Cloud Security Badge**
-- 🎖️ **Cisco Certified Network Associate (CCNA)**
-- 🎖️ **Cisco Certified Entry Networking Technician (CCENT)**
-- 🎖️ **Microsoft Certified Professional**
-- 🎖️ **Microsoft Specialist - Windows**
+ 🎖️ **AWS Cloud Security Badge**
+ 🎖️ **Cisco Certified Network Associate (CCNA)**
+ 🎖️ **Cisco Certified Entry Networking Technician (CCENT)**
+ 🎖️ **Microsoft Certified Professional**
+ 🎖️ **Microsoft Specialist - Windows**
 ---
 ## 📬 Get In Touch
 
 **Looking for a motivated Cloud DevOps intern for Summer 2026?**
 
-- 📧 Email me: [jeffrey.hildebrand@proton.me](mailto:jeffrey.hildebrand@proton.me)
-- 💼 Connect on LinkedIn: [Jeffrey Hildebrand](http://www.linkedin.com/in/jeffrey-hildebrand-43249124a/)
-- 📞 Call/Text: 920.210.1825
-- 📍 Location: Marshall, WI (willing to relocate)
+ 📧 Email me: [jeffrey.hildebrand@proton.me](mailto:jeffrey.hildebrand@proton.me)
+ 💼 Connect on LinkedIn: [Jeffrey Hildebrand](http://www.linkedin.com/in/jeffrey-hildebrand-43249124a/)
+ 📞 Call/Text: 920.210.1825
+ 📍 Location: Marshall, WI (willing to relocate)
 
 💡 **Open to:** Remote, Hybrid, or On-site opportunities in Wisconsin or surrounding states
 
 I'm actively seeking **Summer 2026 internship opportunities** in:
-- ☁️ Cloud DevOps
-- 🖥️ Systems Administration  
-- 🔐 Network Security
-- 🛠️ Infrastructure Engineering
+ ☁️ Cloud DevOps
+ 🖥️ Systems Administration  
+ 🔐 Network Security
+ 🛠️ Infrastructure Engineering
 
 Feel free to reach out via email or LinkedIn!
 
