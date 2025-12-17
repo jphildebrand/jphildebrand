@@ -1,4 +1,5 @@
-<img src="https://github.com/jphildebrand/jphildebrand/blob/main/Matrix.jpg" alt="Banner of a developer sitting in front of a Matric desk">
+
+<div align="center"> <img src="https://github.com/jphildebrand/jphildebrand/blob/main/Matrix.jpg" alt="Banner of a developer sitting in front of a Matric desk">
 
 <div align="center">
 
@@ -22,7 +23,9 @@ Systems Administration/Cloud DevOps student graduating Fall 2026, seeking summer
 Hands-on experience with Hands-on experience with AWS infrastructure, Proxmox virtualization, Python automation, and infrastructure monitoring. 
 Network Security degree with CCNA certification and prior IT Security internship experience
 
----
+## 🎯 Current Focus (December 2024)
+🎓 Studying: Cloud Dev Ops, System Administration, Scripting
+💼 Seeking: Summer 2026 DevOps/Cloud Infrastructure internships
 
 ## 🛠️ Tech Stack
 
@@ -66,22 +69,17 @@ Network Security degree with CCNA certification and prior IT Security internship
 - 🎖️ **Cisco Certified Entry Networking Technician (CCENT)**
 - 🎖️ **Microsoft Certified Professional**
 - 🎖️ **Microsoft Specialist - Windows**
-
 ---
+## 📬 Get In Touch
 
-## 📊 GitHub Stats
+**Looking for a motivated Cloud DevOps intern for Summer 2026?**
 
-<div align="center">
+- 📧 Email me: [jeffrey.hildebrand@proton.me](mailto:jeffrey.hildebrand@proton.me)
+- 💼 Connect on LinkedIn: [Jeffrey Hildebrand](http://www.linkedin.com/in/jeffrey-hildebrand-43249124a/)
+- 📞 Call/Text: 920.210.1825
+- 📍 Location: Marshall, WI (willing to relocate)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jphildebrand&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jphildebrand&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 📫 Let's Connect!
+💡 **Open to:** Remote, Hybrid, or On-site opportunities in Wisconsin or surrounding states
 
 I'm actively seeking **Summer 2026 internship opportunities** in:
 - ☁️ Cloud DevOps
@@ -107,7 +105,7 @@ virtualization, and building scalable systems. Currently finishing my dual degre
 in Systems Administration and Cloud DevOps at Madison College.
 
 🔭 I'm currently working on: Proxmox automation and AWS infrastructure projects
-🌱 I'm currently learning: Terraform, Kubernetes, and advanced CI/CD pipelines
+🌱 I'm currently learning: Cloud, automation, Servers, CI/CD pipelines, +++++
 💬 Ask me about: Proxmox VE, AWS, Python automation, or network security
 ⚡ Fun fact: Former commercial pilot who decided to fly in the cloud instead! ☁️✈️
 
@@ -176,3 +174,10 @@ in Systems Administration and Cloud DevOps at Madison College.
 </div>
 
 <hr>
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jphildebrand&show_icons=true&theme=tokyonight&hide_border=true)
+
+
