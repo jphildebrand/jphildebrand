@@ -18,7 +18,9 @@
 
 ## 🎓 About Me
 
-Systems Administration/Cloud DevOps student graduating Fall 2026, seeking summer 2026 internship opportunities in DevOps, Cloud Infrastructure, or Systems Administration. Hands-on experience with [...]
+Systems Administration/Cloud DevOps student graduating Fall 2026, seeking summer 2026 internship opportunities in DevOps, Cloud Infrastructure, or Systems Administration. 
+Hands-on experience with Hands-on experience with AWS infrastructure, Proxmox virtualization, Python automation, and infrastructure monitoring. 
+Network Security degree with CCNA certification and prior IT Security internship experience
 
 ---
 
@@ -100,6 +102,14 @@ Feel free to reach out via email or LinkedIn!
 </div>
 
 ## Hi there 👋
+I'm Jeffrey, a Cloud DevOps student passionate about infrastructure automation, 
+virtualization, and building scalable systems. Currently finishing my dual degrees 
+in Systems Administration and Cloud DevOps at Madison College.
+
+🔭 I'm currently working on: Proxmox automation and AWS infrastructure projects
+🌱 I'm currently learning: Terraform, Kubernetes, and advanced CI/CD pipelines
+💬 Ask me about: Proxmox VE, AWS, Python automation, or network security
+⚡ Fun fact: Former commercial pilot who decided to fly in the cloud instead! ☁️✈️
 
 ## Technical Projects & Experience
 
