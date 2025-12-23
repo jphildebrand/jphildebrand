@@ -176,7 +176,9 @@ in Systems Administration and Cloud DevOps at Madison College.
 <div align=center>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=jphildebrand&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="jphildebrand's GitHub Stats" />
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=jphildebrand&theme=transparent&count_private=true&border_radius=10&locale=en" alt="jphildebrand's" />
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=jphildebrand&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="jphildebrand's Most Used Languages" />
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=jphildebrand&theme=transparent&layout=donut&hide=html,css,javascript&langs_count=6&border_radius=10&show_icons=true&locale=en" alt="jphildebrand's Most Used Languages" />
+  <br>
+  <sub><i>Most Used: Python, Java, JSON, YAML</i></sub>
 </div>
 
 <hr>
