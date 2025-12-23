@@ -3,7 +3,7 @@
 
 <div align="center">
 
-## [![Name](https://img.shields.io/badge/Jeffrey_Hildebrand-000000?style=for-the-badge&logoColor=white)](#)
+<h1 style="font-size: 40px; margin: 0;">Jeffrey Hildebrand</h1>
 
 ### Cloud DevOps Engineer | Systems Administrator | Network Security Specialist
 
