@@ -10,6 +10,7 @@
 [![Email](https://img.shields.io/badge/Email-jeffrey.hildebrand%40proton.me-blue?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:jeffrey.hildebrand@proton.me)
 [![College Email](https://img.shields.io/badge/College-jphildebrand%40madisoncollege.edu-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jphildebrand@madisoncollege.edu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jeffrey_Hildebrand-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/jeffrey-hildebrand-43249124a/)
+[![Credly](https://img.shields.io/badge/Credly-Jeffrey_Hildebrand-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/jeffrey-hildebrand)
 [![Phone](https://img.shields.io/badge/Phone-920.210.1825-green?style=for-the-badge&logo=phone&logoColor=white)](tel:920-210-1825)
 [![Location](https://img.shields.io/badge/Location-Marshall%2C_WI-purple?style=for-the-badge&logo=google-maps&logoColor=white)](#)
 
