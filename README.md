@@ -20,13 +20,14 @@
 
 ## 🎓 About Me
 
-Systems Administration/Cloud DevOps student graduating Fall 2026, seeking summer 2026 internship opportunities in DevOps, Cloud Infrastructure, or Systems Administration. 
-Hands-on experience with Hands-on experience with AWS infrastructure, Proxmox virtualization, Python automation, and infrastructure monitoring. 
-Network Security degree with CCNA certification and prior IT Security internship experience
+Systems Administration/Cloud DevOps student graduating **December 2026**, seeking internship and entry-level opportunities in DevOps, Cloud Infrastructure, or Systems Administration.
+Hands-on experience with AWS and Azure cloud infrastructure, Windows Server/Active Directory enterprise environments, Proxmox virtualization, DevOps pipelines (Packer, OpenTofu, Ansible), Python/PowerShell/Bash automation, and infrastructure monitoring.
+Network Security degree with CCNA certification and prior IT Security internship experience.
 
-## 🎯 Current Focus (December 2024)
-🎓 Studying: Cloud Dev Ops, System Administration, Scripting
-💼 Seeking: Summer 2026 DevOps/Cloud Infrastructure internships
+## 🎯 Current Focus (Spring 2026)
+🎓 Studying: Cloud DevOps, Systems Administration, PowerShell Scripting, Azure Cloud Computing
+💼 Seeking: DevOps/Cloud Infrastructure/SysAdmin opportunities
+🔧 Building: Multi-site Active Directory environments, Azure CLI automation, IaC pipelines
 
 ## 🛠️ Tech Stack
 
@@ -34,6 +35,13 @@ Network Security degree with CCNA certification and prior IT Security internship
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
+
+### Infrastructure as Code & DevOps
+![OpenTofu](https://img.shields.io/badge/OpenTofu-FFDA18?style=flat-square&logo=opentofu&logoColor=black)
+![Packer](https://img.shields.io/badge/Packer-02A8EF?style=flat-square&logo=packer&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![CloudFormation](https://img.shields.io/badge/CloudFormation-FF4F8B?style=flat-square&logo=amazon-aws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
 ### Automation & Scripting
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -60,6 +68,7 @@ Network Security degree with CCNA certification and prior IT Security internship
 ### Networking & Security
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active_Directory-0078D6?style=flat-square&logo=windows&logoColor=white)
 
 ---
 
@@ -73,7 +82,7 @@ Network Security degree with CCNA certification and prior IT Security internship
 ---
 ## 📬 Get In Touch
 
-**Looking for a motivated Cloud DevOps intern for Summer 2026?**
+**Looking for a motivated Cloud DevOps engineer?**
 
  📧 Email me: [jeffrey.hildebrand@proton.me](mailto:jeffrey.hildebrand@proton.me)
  💼 Connect on LinkedIn: [Jeffrey Hildebrand](http://www.linkedin.com/in/jeffrey-hildebrand-43249124a/)
@@ -82,7 +91,7 @@ Network Security degree with CCNA certification and prior IT Security internship
 
 💡 **Open to:** Remote, Hybrid, or On-site opportunities in Wisconsin or surrounding states
 
-I'm actively seeking **Summer 2026 internship opportunities** in:
+I'm actively seeking opportunities in:
  ☁️ Cloud DevOps
  🖥️ Systems Administration  
  🔐 Network Security
@@ -94,7 +103,7 @@ Feel free to reach out via email or LinkedIn!
 
 <div align="center">
 
-**💼 Open to Internship Opportunities | 🎓 Graduating Fall 2026**
+**💼 Open to Opportunities | 🎓 Graduating December 2026**
 
 *Made with ❤️ and lots of ☕*
 
@@ -105,12 +114,13 @@ I'm Jeffrey, a Cloud DevOps student passionate about infrastructure automation,
 virtualization, and building scalable systems. Currently finishing my dual degrees 
 in Systems Administration and Cloud DevOps at Madison College.
 
-🔭 I'm currently working on: Proxmox automation and AWS infrastructure projects
-🌱 I'm currently learning: Cloud, automation, Servers, CI/CD pipelines, +++++
-💬 Ask me about: Proxmox VE, AWS, Python automation, or network security
+🔭 I'm currently working on: Multi-site AD environments, Azure cloud labs, and DevOps pipelines
+🌱 I'm currently learning: PowerShell/AD scripting, Azure CLI automation, IaC with OpenTofu & Packer
+💬 Ask me about: Proxmox VE, AWS, Azure, Active Directory, PowerShell, or network security
 ⚡ Fun fact: Former commercial pilot who decided to fly in the cloud instead! ☁️✈️
 
-<div align="left"
+<div align="left">
+
 ## Technical Projects & Experience
 
 ### 🖥️ Infrastructure & Virtualization
@@ -132,6 +142,46 @@ in Systems Administration and Cloud DevOps at Madison College.
 - Implemented Infrastructure as Code using CloudFormation templates
 - Configured Auto Scaling Groups and Application Load Balancers
 - Set up secure VPC architecture with public/private subnets
+
+### 🏢 Windows Server & Active Directory
+
+#### Multi-Site Active Directory Enterprise Environment (2026)
+- Built a complete AD DS forest (AllMashBrew.local) from scratch on Windows Server 2022 Core
+- Designed multi-site OU structure (Wisconsin, Montana, Vermont) with role-based sub-OUs
+- Created 333 user accounts via PowerShell bulk import from CSV with automated OU placement
+- Implemented AGDLP group nesting strategy with 42+ Global groups and 7 Domain Local resource groups
+- Configured file shares with granular NTFS permissions, home directories, and drive mapping via GPO
+- Deployed 10 Group Policy Objects for software installation, wallpaper, login banners, and drive maps
+- Delegated Helpdesk control per site using PowerShell ACL scripting
+- Built comprehensive verification report script to validate the entire environment
+
+#### Active Directory Scripting & Automation (2025-2026)
+- Wrote PowerShell scripts for bulk `New-ADUser`, `New-ADGroup`, and `New-ADComputer` operations
+- Automated network share creation with group-based NTFS permissions and logon drive mapping
+- Exported OU structures to Excel (.xlsx) using Python openpyxl for documentation
+- Developed environment verification scripts with `Start-Transcript` logging for audit trails
+
+### ☁️ Azure Cloud Computing
+
+#### Azure Linux VM & LAMP Stack Deployment (2026)
+- Provisioned Ubuntu VM in Azure with full LAMP stack (Apache, MySQL, PHP)
+- Created MySQL database with employee table and deployed PHP web application
+- Configured NSG rules for HTTP/SSH access and managed Azure networking (VNets, subnets)
+- Documented the full workflow with screenshots in Word deliverables
+
+#### Azure CLI & Bash Automation (2026)
+- Automated the complete Azure VM + LAMP stack deployment via Azure CLI and Bash scripts
+- Scripted resource group creation, VM provisioning, NSG rules, and application deployment
+- Studied Azure networking concepts: NSGs, ASGs, VNets, peering, and service tags
+
+### 🔧 DevOps & CI/CD Pipelines
+
+#### AWS DevOps Pipeline with IaC (2025-2026)
+- Built end-to-end deployment pipeline: Packer → OpenTofu → ASG → ALB → Route 53
+- Created golden AMIs with Packer for consistent, repeatable server images
+- Provisioned infrastructure with OpenTofu (VPC, subnets, security groups, Auto Scaling)
+- Configured Application Load Balancer with health checks and Route 53 DNS
+- Explored Ansible for configuration management and post-provisioning automation
 
 ### 📊 Monitoring & Data
 
@@ -168,6 +218,7 @@ in Systems Administration and Cloud DevOps at Madison College.
 - Conducted network scanning and enumeration with Nmap and Metasploit
 - Identified and documented security vulnerabilities with remediation recommendations
 - Practiced ethical hacking techniques in controlled lab environments
+
 </div>
 
 ## ⚡️ Stats
@@ -181,10 +232,9 @@ in Systems Administration and Cloud DevOps at Madison College.
 </div>
 
 <hr>
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jphildebrand&show_icons=true&theme=tokyonight&hide_border=true)
-
-
